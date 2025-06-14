@@ -1,1 +1,1 @@
-# Extrovert-vs-introvert
+# python project
